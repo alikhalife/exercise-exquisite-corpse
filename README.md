@@ -1,2 +1,2 @@
 # exercise-exquisite-corpse
-Our first Project 
+My special story
